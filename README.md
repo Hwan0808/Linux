@@ -1,2 +1,2 @@
 # Linux
-시스템엔지니어가 알려주는 리눅스 Bash Shell Script ✍
+유닉스시스템 운영 수업 과제 ✍
